@@ -23,6 +23,11 @@ Fedora Workstation focuses on delivering the latest software and development too
 ### Windows 11 – Workstation Overview
 Windows 11 is a proprietary workstation operating system widely used in enterprise and home environments. It provides strong compatibility with commercial software and a familiar graphical interface. However, it requires licensing, consumes more system resources, and is less efficient in virtualised environments compared to Linux-based systems. Its closed-source nature also limits flexibility and customisation.
 
+## WHY I CHOOSE UBUNTU (server & workstation)
+I selected Ubuntu for both the server and workstation environments after comparing it with Fedora and Windows-based operating systems. Ubuntu was chosen primarily due to its long-term support (LTS) releases, which provide extended security updates and long-term stability: an essential requirement for both server reliability and workstation consistency. In contrast, Fedora focuses on cutting-edge features with a shorter support lifecycle, making it less suitable for long-term deployment, while Windows Server and Windows 11 require paid licences and higher system resources.
+Ubuntu’s lightweight performance makes it particularly well suited for virtualised environments, allowing efficient use of system resources on both the server and workstation. Additionally, Ubuntu offers strong security, extensive documentation, and a large support community, which simplifies deployment, management, and troubleshooting. Using Ubuntu across both systems also ensures compatibility and consistency, reducing configuration issues and improving overall system integration. For these reasons, Ubuntu provides the most balanced, cost-effective, and reliable solution for the networked virtual environment.
+
+
 
 ![](/week1_image/NAT_DESKTOP.png)
 
