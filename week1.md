@@ -8,19 +8,19 @@ In the image below you can see the flow of traffic from a private NAT Network to
 ![](/week1_image/designimg.png)
 
 ## SERVERS OVERVIEW
-### Ubuntu server overview:
-Ubuntu Server is widely used in both academic and enterprise environments due to its reliability, performance, and long-term support releases. The LTS (Long Term Support) versions provide security updates and maintenance for several years, making it ideal for servers that require stability. Ubuntu also has extensive documentation and a large community, which makes troubleshooting and learning much easier. It runs efficiently on low-spec hardware and supports a wide range of server applications.
-### Fedora Server – Overview
+### Ubuntu server:
+Ubuntu Server is widely used in both academic and enterprise environments due to its reliability, performance, and long-term support releases. The LTS (Long Term Support) versions provide security updates and maintenance for several years, making it ideal for servers that require stability. Ubuntu also has extensive documentation and a large community, which makes troubleshooting and learning much easier. It runs efficiently on low-spec hardware and supports a wide range of server applications:
+### Fedora Server
 Fedora Server focuses on delivering the latest technologies and features, making it suitable for testing and development environments. However, it has a much shorter support lifecycle compared to Ubuntu, meaning frequent upgrades are required. While Fedora is secure and modern, its cutting-edge nature can introduce instability, which makes it less suitable for production servers where reliability is critical
-### Windows Server – Overview
+### Windows Server:
 Windows Server is a proprietary operating system developed by Microsoft and is commonly used in enterprise environments. It offers strong integration with Microsoft services such as Active Directory and Azure. However, it requires a paid licence, consumes more system resources, and is less flexible compared to Linux-based servers. It is also more vulnerable to malware due to its popularity and closed-source nature.
 
 ## WORKSTATION OVERVIEW
-### Ubuntu Desktop – Workstation Overview
+### Ubuntu Desktop (Workstation)
 Ubuntu Desktop is a stable and widely used workstation operating system suitable for both academic and professional environments. It provides a user-friendly interface, strong security features, and regular updates supported by long-term support (LTS) releases. Ubuntu Desktop is lightweight, performs efficiently in virtual machines, and offers access to a large software repository, making it ideal for everyday workstation tasks such as system administration, development, and documentation.
-### Fedora Workstation – Overview
+### Fedora Workstation 
 Fedora Workstation focuses on delivering the latest software and development tools, making it well suited for advanced users and testing environments. However, it has a shorter release and support cycle, requiring frequent updates. While Fedora is secure and modern, its cutting-edge approach can reduce stability, which makes it less suitable for a workstation intended for long-term use in a production or learning environment.
-### Windows 11 – Workstation Overview
+### Windows 11 
 Windows 11 is a proprietary workstation operating system widely used in enterprise and home environments. It provides strong compatibility with commercial software and a familiar graphical interface. However, it requires licensing, consumes more system resources, and is less efficient in virtualised environments compared to Linux-based systems. Its closed-source nature also limits flexibility and customisation.
 
 ## WHY I CHOOSE UBUNTU (server & workstation)
