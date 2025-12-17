@@ -1,6 +1,6 @@
 # SYSTEM PLANNING AND DISTRIBUTION SELECTION
 
-##Introduction:
+## Introduction:
 
 
 ![](/week1_image/designimg.png)
