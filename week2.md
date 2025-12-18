@@ -24,7 +24,7 @@ While all three tools monitor system performance, they serve different purposes.
   ![](/wee2images/htop_desktop.png)
 
 ## nmon install:
-  ![](/wee2images/nmon_install.png)
+  ![](/wee2images/nmon_isntall.png)
 
 ## nmon:
   ![](/wee2images/Menu_for_nmon.png)
