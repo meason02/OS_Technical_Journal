@@ -24,3 +24,18 @@ Before: I had no visibility into server health, such as memory spikes or CPU loa
 After: I successfully deployed a monitoring script that connects via SSH to pull real-time data. I verified that I could track the status of the unattended-upgrades service and other system processes remotely. This allows me to maintain a high-level view of server performance and stability from my administrative workstation.
 
 ## All images are below:
+
+### aa-status:
+![](/week5_images/aa-status.png)
+
+### Security-baseline script:
+![](/week5_images/baseline-script.png)
+
+### fail2ban_successfull:
+![](/week5_images/fail2ban_successfull.png)
+
+### monitoring script:
+![](/week5_images/monitoring_script.png)
+
+### unattended upgrade:
+![](/week5_images/unattended_upgrades.png)
