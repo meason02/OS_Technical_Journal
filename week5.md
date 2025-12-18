@@ -32,7 +32,7 @@ After: I successfully deployed a monitoring script that connects via SSH to pull
 ![](/week5_images/baseline-script.png)
 
 ### fail2ban_successfull:
-![](/week5_images/fail2ban_successfull.png)
+![](/week5_images/fail2ban_successful.png)
 
 ### monitoring script:
 ![](/week5_images/monitoring_script.png)
