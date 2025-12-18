@@ -49,6 +49,7 @@ Server IP address: 10.0.2.15/24
 
 ## CLI USED TO DOCUMENT THE SYSTEM
 Desktop Commands:
+
 ![](/week1_image/ubuntu_desktop_commands.png)
 
 ### uname
