@@ -31,3 +31,6 @@ PasswordAuthentication: Still set to NO (Secure).
 PubkeyAuthentication: Still set to YES (Secure).
 PermitRootLogin: Still set to NO (Secure).
 The Result: The script confirms that my core security "anchors" are still in place, providing a final layer of confidence in the server's integrity.
+
+## all images below:
+### 
