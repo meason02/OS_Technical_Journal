@@ -32,4 +32,4 @@ Metrics such as CPU utilisation, memory usage, disk I/O throughput, and network 
 ## Summary of Performance Evaluation Approach
 The performance evaluation approach involves executing each selected application according to its workload type, monitoring system behaviour in real time, and comparing observed resource usage against the expected profiles. This structured methodology enables identification of strengths and limitations in the system configuration, highlights potential bottlenecks, and verifies that the environment can handle the intended workloads. By combining workload generation with systematic monitoring, I can produce a comprehensive assessment of system stability, responsiveness, and efficiency.
 
-## Images and refrences are in week 2. 
+### Images and refrences are in week 2. 
