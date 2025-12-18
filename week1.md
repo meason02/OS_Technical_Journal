@@ -49,4 +49,4 @@ Server IP address: 10.0.2.15/24
 
 ## CLI USED TO DOCUMENT THE SYSTEM
 ![](/week1_image/ubuntu_desktop_commands.png)
-![](/week1_imageubuntuserver_commands.png) 
+![](/week1_image/ubuntuserver_commands.png) 
