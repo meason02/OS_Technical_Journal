@@ -49,4 +49,25 @@ Server IP address: 10.0.2.15/24
 
 ## CLI USED TO DOCUMENT THE SYSTEM
 ![](/week1_image/ubuntu_desktop_commands.png)
+
+### uname
+
+Workstation: Used to verify the operating system and kernel version for user compatibility and development or administrative tasks.
+
+### free
+
+Workstation: Used to check RAM usage during user tasks and confirm the system can handle applications smoothly.
+
+### df -h
+
+Workstation: Used to check available storage for user files, applications, and system updates.
+
+### ip addr
+
+Workstation: Used to confirm network connectivity and correct IP assignment within the virtual network.
+
+### lsb_release
+
+Workstation: Used to confirm the Ubuntu Desktop version installed for compatibility with applications and updates.
+
 ![](/week1_image/ubuntuserver_commands.png) 
