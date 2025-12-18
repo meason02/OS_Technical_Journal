@@ -20,9 +20,11 @@ While all three tools monitor system performance, they serve different purposes.
 ## btop: server
   ![](/wee2images/server_btop.png)
 
-
 ## htop:
-  ![](/wee2images/htop_desktop.png)
+  ![](/wee2images/nmon_install.png)
+
+## nmon install:
+  ![](/wee2images/btop_desktop.png)
 
 ## nmon:
   ![](/wee2images/Menu_for_nmon.png)
