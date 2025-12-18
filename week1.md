@@ -32,6 +32,7 @@ Ubuntu’s lightweight performance makes it particularly well suited for virtual
 Desktop Network Settings:
 ![](/week1_image/NAT_DESKTOP.png)
 In the images above and below you can see that both the server and the workstation(desktop) are on the same network named: NAT
+
 Server Network Settings:
 ![](/week1_image/NAT_SERVER.png)
 
