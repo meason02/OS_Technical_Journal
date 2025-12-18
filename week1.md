@@ -28,6 +28,7 @@ I selected Ubuntu for both the server and workstation environments after compari
 Ubuntu’s lightweight performance makes it particularly well suited for virtualised environments, allowing efficient use of system resources on both the server and workstation. Additionally, Ubuntu offers strong security, extensive documentation, and a large support community, which simplifies deployment, management, and troubleshooting. Using Ubuntu across both systems also ensures compatibility and consistency, reducing configuration issues and improving overall system integration. For these reasons, Ubuntu provides the most balanced, cost-effective, and reliable solution for the networked virtual environment.
 
 
+## NETWORK CONFIGURATION
 
 ![](/week1_image/NAT_DESKTOP.png)
 
