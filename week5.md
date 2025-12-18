@@ -37,5 +37,4 @@ After: I successfully deployed a monitoring script that connects via SSH to pull
 ### monitoring script:
 ![](/week5_images/monitoring_script.png)
 
-### unattended upgrade:
-![](/week5_images/unattended_upgrades.png)
+
