@@ -34,5 +34,5 @@ Here you can see that I did not have nmon installed and therefore I went ahead a
 ## nmon CPU:
   ![](/wee2images/nmon_cpu.png)
 
-## nmon Memory
+## nmon Memory:
   ![](/wee2images/nmon_memory.png)
