@@ -52,25 +52,36 @@ Desktop Commands:
 
 ![](/week1_image/ubuntu_desktop_commands.png)
 
-### uname
+### uname:
+Used to verify the operating system and kernel version for user compatibility and development or administrative tasks.
 
-Workstation: Used to verify the operating system and kernel version for user compatibility and development or administrative tasks.
+### free:
+Used to check RAM usage during user tasks and confirm the system can handle applications smoothly.
 
-### free
+### df -h:
+Used to check available storage for user files, applications, and system updates.
 
-Workstation: Used to check RAM usage during user tasks and confirm the system can handle applications smoothly.
+### ip addr:
+Used to confirm network connectivity and correct IP assignment within the virtual network.
 
-### df -h
-
-Workstation: Used to check available storage for user files, applications, and system updates.
-
-### ip addr
-
-Workstation: Used to confirm network connectivity and correct IP assignment within the virtual network.
-
-### lsb_release
-
-Workstation: Used to confirm the Ubuntu Desktop version installed for compatibility with applications and updates.
+### lsb_release:
+Used to confirm the Ubuntu Desktop version installed for compatibility with applications and updates.
 
 Server Commands:
 ![](/week1_image/ubuntuserver_commands.png) 
+
+### uname
+Used to confirm the kernel version and system architecture to ensure server compatibility, stability, and security patching.
+
+### free:
+sed to monitor memory availability to ensure server services can run continuously without performance issues.
+
+### df -h
+Used to monitor disk usage to prevent storage-related service failures and ensure sufficient space for logs and services.
+
+### ip addr:
+Used to verify static IP configuration and network connectivity required for consistent access to server services.
+
+### lsb_release: 
+Used to confirm the exact Ubuntu Server version installed for stability and long-term support planning.
+
