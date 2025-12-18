@@ -25,6 +25,7 @@ While all three tools monitor system performance, they serve different purposes.
 
 ## nmon install:
   ![](/wee2images/nmon_isntall.png)
+Here you can see that I did not have nmon installed and therefore I went ahead and installed it using the command sudo apt install nmon and then the server asked for my password and after the password was successfully entered it continued the download. 
 
 ## nmon:
   ![](/wee2images/Menu_for_nmon.png)
