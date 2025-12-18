@@ -64,8 +64,8 @@ Iperf3 is a network performance testing tool used to generate network traffic be
    ![](/wee2images/ram_stress.png)
 
  #### Network Perfonace:
-   ![](/wee2images/network_perfomance_testing.png)
+   ![](/wee2images/netwrok_perfomance_testing.png)
 
 #### Ping server and workstation network:
    ![](/wee2images/ping_from_desktop.png)
-      ![](/wee2images/ping_from_server.png)
+   ![](/wee2images/ping_from_server.png)
