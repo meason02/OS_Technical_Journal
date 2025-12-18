@@ -1,1 +1,4 @@
 # Initial System Configuration & Security Implementation
+
+## introduction: 
+This task focuses on deploying the server and implementing foundational security controls to ensure a secure and manageable environment. The primary objectives include configuring SSH with key-based authentication to establish secure remote access, setting up a firewall to restrict SSH connections to a specific workstation, and managing user accounts with appropriate privilege management, including the creation of a non-root administrative user. Evidence of successful SSH connections, configuration file changes, firewall rules, and remote administration commands will be documented to demonstrate the implementation and effectiveness of these security measures. This process establishes a secure baseline for the server while enabling controlled and auditable remote administration.
