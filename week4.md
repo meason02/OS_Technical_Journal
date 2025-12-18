@@ -26,6 +26,30 @@ After: I enabled the firewall to begin blocking all unsolicited traffic. During 
 ## Verification of Remote Administration
 To conclude the task, I performed a final connection test to prove the implementation was successful.
 The Result: As shown in my final evidence, I am now able to SSH into meason@10.0.2.15 without being prompted for a password. The server recognizes my cryptographic key instantly. I confirmed my administrative privileges by successfully running sudo commands within the remote session, proving that I have a fully functional, hardened remote administration environment.
-All images are below 
 
+## All images are below 
+
+### copy key:
+  ![](/week_4images/copy_key.png)
+
+### key generation:
+  ![](/week_4images/key-gen.png)
+
+### key working:
+  ![](/week_4images/key-working.png)
+  
+### firewall:
+  ![](/week_4images/firewall.png)
+
+### Pass Required:
+  ![](/week_4images/passrequired.png)
+
+### Problem faced:
+  ![](/week_4images/problemfaced.png)
+
+### SSH Connection:
+  ![](/week_4images/ssh-connection.png)
+
+### SSHD Config:
+  ![](/week_4images/sshd-config.png)
 
