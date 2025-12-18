@@ -41,6 +41,12 @@ Here you can see that I did not have nmon installed and therefore I went ahead a
 
 Workload generation tools are used to deliberately place stress on system resources in order to evaluate performance, stability, and reliability under load. These tools help simulate real-world usage scenarios by consuming CPU, memory, disk, or network bandwidth. By generating controlled workloads, system behaviour can be observed and measured, supporting performance testing and helping identify bottlenecks or potential weaknesses in both server and workstation environments.
 
-####Stress-ng
+#### Stress-ng
 Stress-ng is a comprehensive workload generation tool designed to stress test system components such as CPU, memory, and disk I/O. It allows precise control over the type and intensity of load applied to the system, making it suitable for performance testing and stability analysis. Stress-ng is commonly used in server environments to ensure the system can handle high resource usage without crashing or degrading performance.
  stress-ng --cpu 4 --timeout 60s
+
+ #### Iperf3
+
+Iperf3 is a network performance testing tool used to generate network traffic between two systems. It measures bandwidth, latency, and packet loss, making it ideal for testing network performance in a virtualised or physical network environment. Iperf3 is particularly useful for evaluating server-to-workstation communication and verifying that the network can handle expected data loads.
+
+
