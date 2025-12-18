@@ -30,26 +30,26 @@ The Result: As shown in my final evidence, I am now able to SSH into meason@10.0
 ## All images are below 
 
 ### copy key:
-  ![](/week_4images/copy_key.png)
+  ![](/week4_images/copy_key.png)
 
 ### key generation:
-  ![](/week_4images/key-gen.png)
+  ![](/week4_images/key-gen.png)
 
 ### key working:
-  ![](/week_4images/key-working.png)
+  ![](/week4_images/key-working.png)
   
 ### firewall:
-  ![](/week_4images/firewall.png)
+  ![](/week4_images/firewall.png)
 
 ### Pass Required:
-  ![](/week_4images/passrequired.png)
+  ![](/week4_images/passrequired.png)
 
 ### Problem faced:
-  ![](/week_4images/problemfaced.png)
+  ![](/week4_images/problemfaced.png)
 
 ### SSH Connection:
-  ![](/week_4images/ssh-connection.png)
+  ![](/week4_images/ssh-connection.png)
 
 ### SSHD Config:
-  ![](/week_4images/sshd-config.png)
+  ![](/week4_images/sshd-config.png)
 
