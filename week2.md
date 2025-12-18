@@ -15,7 +15,7 @@ Nmon (Nigel’s Monitor) is a performance monitoring tool primarily used for in-
 ### Differences Between Htop, Btop, and Nmon
 While all three tools monitor system performance, they serve different purposes. Htop focuses on process management and real-time system interaction, making it ideal for quick troubleshooting. Btop provides a visually rich and comprehensive overview of system performance, which is useful for continuous monitoring. Nmon is more analytical and is best suited for performance testing and data collection, particularly in server environments. Together, these tools provide a balanced approach to system monitoring by covering real-time interaction, visual insight, and detailed performance analysis.
 
-![](/week1_image/htop_desktop.png)
+![](/week2_image/htop_desktop.png)
 
 
 
