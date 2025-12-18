@@ -31,3 +31,7 @@ The final part of my analysis focused on how the OS manages background tasks lik
 My Observations:
 Automated Task Impact: My monitoring showed that the unattended-upgrades.service has been active for over 2 hours without causing a rise in CPU temperature or memory swap.
 The Thinking: This proves that the Ubuntu 24.04 kernel effectively prioritizes these security tasks as background processes, ensuring they do not interfere with the primary "Service Response Times" of the administrative shell.
+
+
+### unattended upgrades:
+![](week6_images/unattended_upgrades.png)
