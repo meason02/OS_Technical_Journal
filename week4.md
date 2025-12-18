@@ -29,11 +29,11 @@ The Result: As shown in my final evidence, I am now able to SSH into meason@10.0
 
 ## All images are below 
 
-### copy key:
-  ![](/week4_images/copy_key.png)
-
 ### key generation:
   ![](/week4_images/key-gen.png)
+
+### copy key:
+  ![](/week4_images/copy_key.png)
 
 ### key working:
   ![](/week4_images/key-working.png)
