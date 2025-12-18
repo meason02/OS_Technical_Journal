@@ -85,3 +85,4 @@ Used to verify static IP configuration and network connectivity required for con
 #### lsb_release: 
 Used to confirm the exact Ubuntu Server version installed for stability and long-term support planning.
 
+While these commands function identically on both systems, the server outputs are used to ensure reliability and continuous operation, whereas the workstation outputs are focused on usability and performance for the end user.
