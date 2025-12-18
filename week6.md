@@ -35,3 +35,7 @@ The Thinking: This proves that the Ubuntu 24.04 kernel effectively prioritizes t
 
 ### unattended upgrades:
 ![](week6_images/unattended_upgrades.png)
+
+## Network Perfomance using iperf3:
+![](week6_images/iperf3.png)
+
