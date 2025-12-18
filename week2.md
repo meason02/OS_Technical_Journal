@@ -49,9 +49,9 @@ Stress-ng is a comprehensive workload generation tool designed to stress test sy
 
 Iperf3 is a network performance testing tool used to generate network traffic between two systems. It measures bandwidth, latency, and packet loss, making it ideal for testing network performance in a virtualised or physical network environment. Iperf3 is particularly useful for evaluating server-to-workstation communication and verifying that the network can handle expected data loads.
  
- Iperf3 on server: iperf3 -s
+ Iperf3 command on server: iperf3 -s
  
- Iperf3 on workstation: iperf3 -c <server-ip-address>
+ Iperf3 command on workstation: iperf3 -c <server-ip-address>
  
  This generates network traffic from the workstation to the server and measures network throughput.
 
