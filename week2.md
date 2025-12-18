@@ -53,15 +53,19 @@ Iperf3 is a network performance testing tool used to generate network traffic be
  
  Iperf3 command on workstation: iperf3 -c <server-ip-address>
  
- This generates network traffic from the workstation to the server and measures network throughput.
+ #### This generates network traffic from the workstation to the server and measures network throughput.
 
   ![](/wee2images/Idle_io.png) 
 
-  CPU stress:
+ #### CPU stress:
   ![](/wee2images/btop_desktop.png)
 
-  Memory stress:
-    ![](/wee2images/ram_stress.png)
+ #### Memory stress:
+   ![](/wee2images/ram_stress.png)
 
-  Network Perfonace:
-    ![](/wee2images/network_perfomance_testing.png)
+ #### Network Perfonace:
+   ![](/wee2images/network_perfomance_testing.png)
+
+#### Ping server and workstation network:
+   ![](/wee2images/ping_from_desktop.png)
+      ![](/wee2images/ping_from_server.png)
