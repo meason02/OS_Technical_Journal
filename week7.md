@@ -33,4 +33,17 @@ PermitRootLogin: Still set to NO (Secure).
 The Result: The script confirms that my core security "anchors" are still in place, providing a final layer of confidence in the server's integrity.
 
 ## all images below:
-### 
+### Before system hardening:
+  ![](week7_images/before_sys_hardening.png)
+
+### After system hardening:
+  ![](week7_images/after_sys_hardening.png)
+
+### Scan nmap:
+  ![](week7_images/scan_nmap.png)
+
+### service Inventory
+  ![](week7_images/service_inventory.png)
+
+### Updates Made for Hardening:
+  ![](week7_images/updatesmadefor_hardening.png)
