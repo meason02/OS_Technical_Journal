@@ -31,13 +31,20 @@ Ubuntu’s lightweight performance makes it particularly well suited for virtual
 ## NETWORK CONFIGURATION
 
 ![](/week1_image/NAT_DESKTOP.png)
+In the images above and below you can see that both the server and the workstation(desktop) are on the same network named: NAT
+
 
 ![](/week1_image/NAT_SERVER.png)
+
+## IP ADDRESSING
+### Desktop IP address
+![](/week1_image/ubuntu_desktop_ipa.png)
+Desktop server IP address: 10.0.2.4/24
+
+### Server IP address
+![](/week1_image/ubuntu_server_ipa.png)
+Server IP address: 10.0.2.15/24
 
 ![](/week1_image/ubuntu_desktop_commands.png)
 
 ![](/week1_imageubuntuserver_commands.png)
-
-![](/week1_image/ubuntu_desktop_ipa.png)
-
-![](/week1_image/ubuntu_server_ipa.png)
