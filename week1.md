@@ -39,10 +39,12 @@ Server Network Settings:
 ## IP ADDRESSING
 ### Desktop IP address
 ![](/week1_image/ubuntu_desktop_ipa.png)
+
 Desktop server IP address: 10.0.2.4/24
 
 ### Server IP address
 ![](/week1_image/ubuntu_server_ipa.png)
+
 Server IP address: 10.0.2.15/24
 
 ![](/week1_image/ubuntu_desktop_commands.png)
